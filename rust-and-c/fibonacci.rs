@@ -1,0 +1,1 @@
+fn fibonacci(n: int) {}
