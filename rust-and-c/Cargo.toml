@@ -8,3 +8,4 @@ name = "fibonacci"
 crate-type = ["staticlib"]
 bench = false
 path = "fibonacci.rs"
+panic = "abort"
