@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 int main() {
-  for (int32_t i = 0; i < 10; i++) {
+  for (int32_t i = 1; i < 10; i++) {
     uint64_t f = fibonacci(i);
-    printf("fib %i: %li", i, f);
+    printf("fib %i: %li\n", i, f);
   }
   return 0;
 }

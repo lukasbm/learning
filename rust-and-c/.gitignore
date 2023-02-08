@@ -73,3 +73,10 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+
+
+##############
+### OUTPUT ###
+##############
+app
+libfibonacci.so
