@@ -5,6 +5,6 @@ edition = "2021"
 
 [lib]
 name = "fibonacci"
-crate-type = ["cdylib"]
+crate-type = ["staticlib"]
 bench = false
 path = "fibonacci.rs"
