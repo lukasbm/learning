@@ -12,3 +12,6 @@ clean:
 
 run: build
 	./app
+
+bindings: build
+	bindgen --lang c
